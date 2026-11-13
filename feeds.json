@@ -1,0 +1,32 @@
+{
+  "_comment": "Add, remove or rename categories and feeds here. Each feed needs a name and an RSS/Atom url. Use a Google News search URL for any topic: https://news.google.com/rss/search?q=YOUR+TOPIC&hl=en-US&gl=US&ceid=US:en",
+  "categories": [
+    {
+      "id": "tech",
+      "label": "Tech",
+      "feeds": [
+        { "name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+        { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
+        { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+        { "name": "Hacker News", "url": "https://hnrss.org/frontpage?points=100" }
+      ]
+    },
+    {
+      "id": "politics",
+      "label": "Politics",
+      "feeds": [
+        { "name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml" },
+        { "name": "BBC Politics", "url": "https://feeds.bbci.co.uk/news/politics/rss.xml" },
+        { "name": "Politico", "url": "https://rss.politico.com/politics-news.xml" },
+        { "name": "AP News", "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+politics&hl=en-US&gl=US&ceid=US:en" }
+      ]
+    },
+    {
+      "id": "ai-regulation",
+      "label": "AI Regulation",
+      "feeds": [
+        { "name": "Google News", "url": "https://news.google.com/rss/search?q=AI+regulation+when:2d&hl=en-US&gl=US&ceid=US:en" }
+      ]
+    }
+  ]
+}

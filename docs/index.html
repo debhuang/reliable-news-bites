@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reliable News Bites</title>
+  <meta name="description" content="Daily headlines from trusted sources, refreshed every morning.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Reliable News Bites</h1>
+      <p class="meta" id="updated">Loading today's headlines…</p>
+    </div>
+  </header>
+
+  <nav class="toolbar" aria-label="Categories">
+    <div class="wrap toolbar-inner">
+      <div class="tabs" id="tabs" role="tablist"></div>
+      <input type="search" id="search" placeholder="Filter headlines…" aria-label="Filter headlines">
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <p class="notice" id="notice" hidden></p>
+    <ol class="stories" id="stories" aria-live="polite"></ol>
+    <p class="empty" id="empty" hidden>No stories match.</p>
+  </main>
+
+  <footer class="wrap footer">
+    Headlines and summaries link to the original publishers. Updated daily from public RSS feeds.
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
