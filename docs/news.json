@@ -1,289 +1,289 @@
 {
-  "generated_at": "2026-11-24T21:56:06+00:00",
+  "generated_at": "2026-11-25T21:04:49+00:00",
   "categories": [
     {
       "id": "tech",
       "label": "Tech",
       "stories": [
         {
-          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-          "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-          "source": "TechCrunch",
-          "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-          "published": "2026-11-24T21:48:27+00:00"
-        },
-        {
-          "title": "GTA VI PC recompilation project shut down by Take-Two",
-          "link": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-          "source": "The Verge",
-          "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown notice from GTA VI publisher Take-Two. Leonida was…",
-          "published": "2026-11-24T21:39:14+00:00"
-        },
-        {
-          "title": "Even the best AI agents struggle with everyday life",
-          "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-          "source": "TechCrunch",
-          "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-          "published": "2026-11-24T21:33:29+00:00"
-        },
-        {
-          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-          "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-          "source": "TechCrunch",
-          "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-          "published": "2026-11-24T21:32:38+00:00"
-        },
-        {
-          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-          "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-          "source": "TechCrunch",
-          "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
-          "published": "2026-11-24T21:19:52+00:00"
-        },
-        {
-          "title": "The Verge’s 2026 holiday gift guide for moms",
-          "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-          "source": "The Verge",
-          "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting…",
-          "published": "2026-11-24T21:09:59+00:00"
-        },
-        {
-          "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-          "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-          "source": "TechCrunch",
-          "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
-          "published": "2026-11-24T21:09:04+00:00"
-        },
-        {
-          "title": "What's going on with the Riemann hypothesis?",
-          "link": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+          "title": "Google search alternative Kagi launches Gmail rival",
+          "link": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
           "source": "Ars Technica",
-          "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-          "published": "2026-11-24T20:34:53+00:00"
+          "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+          "published": "2026-11-25T20:57:09+00:00"
         },
         {
-          "title": "TikTok was down",
-          "link": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+          "title": "FCC approves SpaceX plan to put AI data centers in space",
+          "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+          "source": "TechCrunch",
+          "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+          "published": "2026-11-25T20:56:44+00:00"
+        },
+        {
+          "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+          "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
           "source": "The Verge",
-          "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app…",
-          "published": "2026-11-24T20:27:27+00:00"
+          "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on…",
+          "published": "2026-11-25T20:31:48+00:00"
         },
         {
-          "title": "Ternary Bonsai 2.5 27B",
-          "link": "https://prismml.com/news/bonsai-2-5-27b",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "source": "TechCrunch",
+          "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+          "published": "2026-11-25T20:03:27+00:00"
+        },
+        {
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+          "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "source": "TechCrunch",
+          "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+          "published": "2026-11-25T19:54:57+00:00"
+        },
+        {
+          "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+          "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+          "source": "TechCrunch",
+          "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+          "published": "2026-11-25T19:54:32+00:00"
+        },
+        {
+          "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+          "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+          "source": "The Verge",
+          "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown…",
+          "published": "2026-11-25T19:45:51+00:00"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+          "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+          "source": "TechCrunch",
+          "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+          "published": "2026-11-25T19:44:24+00:00"
+        },
+        {
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "link": "https://scottaaronson.blog/?p=10379",
+          "source": "Hacker News",
+          "summary": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220 Comments URL: https://news.ycombinator.com/item?id=50646108 Points: 387 # Comments: 243",
+          "published": "2026-11-25T19:11:27+00:00"
+        },
+        {
+          "title": "1Password breach leaked customer names and emails, but not passwords",
+          "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+          "source": "The Verge",
+          "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the…",
+          "published": "2026-11-25T19:10:15+00:00"
+        },
+        {
+          "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+          "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+          "source": "TechCrunch",
+          "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+          "published": "2026-11-25T18:49:52+00:00"
+        },
+        {
+          "title": "Backblaze explains why it's sharing customer information with advertisers",
+          "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+          "source": "Ars Technica",
+          "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+          "published": "2026-11-25T18:38:29+00:00"
+        },
+        {
+          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+          "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "source": "Ars Technica",
+          "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+          "published": "2026-11-25T18:22:38+00:00"
+        },
+        {
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+          "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+          "source": "TechCrunch",
+          "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+          "published": "2026-11-25T18:11:46+00:00"
+        },
+        {
+          "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+          "link": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49…",
+          "published": "2026-11-25T18:00:00+00:00"
+        },
+        {
+          "title": "The loneliest peptide party in New York",
+          "link": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+          "source": "The Verge",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea…",
+          "published": "2026-11-25T18:00:00+00:00"
+        },
+        {
+          "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+          "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "source": "The Verge",
+          "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including…",
+          "published": "2026-11-25T17:44:51+00:00"
+        },
+        {
+          "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+          "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+          "source": "TechCrunch",
+          "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+          "published": "2026-11-25T17:36:51+00:00"
+        },
+        {
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+          "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "source": "TechCrunch",
+          "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+          "published": "2026-11-25T17:35:58+00:00"
+        },
+        {
+          "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+          "link": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+          "source": "Ars Technica",
+          "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+          "published": "2026-11-25T17:33:30+00:00"
+        },
+        {
+          "title": "X’s latest update for creators focuses on vertical video",
+          "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+          "source": "TechCrunch",
+          "summary": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+          "published": "2026-11-25T17:28:29+00:00"
+        },
+        {
+          "title": "1Password Security Incident",
+          "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T20:08:03+00:00"
+          "published": "2026-11-25T17:18:26+00:00"
         },
         {
-          "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-          "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-          "source": "The Verge",
-          "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York…",
-          "published": "2026-11-24T20:02:03+00:00"
-        },
-        {
-          "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-          "link": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+          "title": "Etsy clarifies AI terms after seller backlash",
+          "link": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
           "source": "Ars Technica",
-          "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-          "published": "2026-11-24T20:00:18+00:00"
+          "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+          "published": "2026-11-25T17:12:57+00:00"
         },
         {
-          "title": "The clock is running out for America’s most contentious spying law",
-          "link": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+          "title": "The Verge’s guide to the best gifts under $100",
+          "link": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
           "source": "The Verge",
-          "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of…",
-          "published": "2026-11-24T20:00:00+00:00"
+          "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable…",
+          "published": "2026-11-25T17:00:00+00:00"
         },
         {
-          "title": "Cloudflare hides shortcomings of the underlying infrastructure",
-          "link": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+          "title": "WhatsApp now lets you schedule messages in group and individual chats",
+          "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+          "source": "TechCrunch",
+          "summary": "Users can schedule messages from 10 minutes later to after 14 days.",
+          "published": "2026-11-25T16:57:51+00:00"
+        },
+        {
+          "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+          "link": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+          "source": "Ars Technica",
+          "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+          "published": "2026-11-25T16:47:14+00:00"
+        },
+        {
+          "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+          "link": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+          "source": "Ars Technica",
+          "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+          "published": "2026-11-25T16:33:45+00:00"
+        },
+        {
+          "title": "Nothing offers a full look at its AI earbuds and charging case",
+          "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "source": "The Verge",
+          "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's…",
+          "published": "2026-11-25T16:00:59+00:00"
+        },
+        {
+          "title": "Investigating degraded experiences across GitHub products",
+          "link": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T19:03:55+00:00"
+          "published": "2026-11-25T15:59:23+00:00"
         },
         {
-          "title": "Amazon is knocking almost $50 off six months of Apple TV",
-          "link": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
-          "source": "The Verge",
-          "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this…",
-          "published": "2026-11-24T19:00:00+00:00"
-        },
-        {
-          "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-          "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+          "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+          "link": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
           "source": "Ars Technica",
-          "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-          "published": "2026-11-24T18:47:57+00:00"
+          "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+          "published": "2026-11-25T15:35:17+00:00"
         },
         {
-          "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
-          "link": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
-          "source": "The Verge",
-          "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you…",
-          "published": "2026-11-24T18:44:57+00:00"
-        },
-        {
-          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-          "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-          "source": "TechCrunch",
-          "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
-          "published": "2026-11-24T18:30:42+00:00"
-        },
-        {
-          "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-          "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-          "source": "Ars Technica",
-          "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-          "published": "2026-11-24T18:30:36+00:00"
-        },
-        {
-          "title": "How brewers can protect beers from smoke-tainted hops",
-          "link": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-          "source": "Ars Technica",
-          "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-          "published": "2026-11-24T18:18:37+00:00"
-        },
-        {
-          "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-          "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-          "source": "The Verge",
-          "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that…",
-          "published": "2026-11-24T18:15:00+00:00"
-        },
-        {
-          "title": "Kalshi makes “difficult decision” to halt Utah trading after losing court fights",
-          "link": "https://arstechnica.com/tech-policy/2026/11/kalshi-makes-difficult-decision-to-halt-utah-trading-after-losing-court-fights/",
-          "source": "Ars Technica",
-          "summary": "Kalshi’s pause in Utah draws cheers as critics bash ads and boo insider trading.",
-          "published": "2026-11-24T18:03:58+00:00"
-        },
-        {
-          "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-          "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-          "source": "TechCrunch",
-          "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-          "published": "2026-11-24T18:02:59+00:00"
-        },
-        {
-          "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-          "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-          "source": "TechCrunch",
-          "summary": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
-          "published": "2026-11-24T17:44:34+00:00"
-        },
-        {
-          "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-          "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-          "source": "Ars Technica",
-          "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
-          "published": "2026-11-24T17:34:34+00:00"
-        },
-        {
-          "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
-          "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
-          "source": "The Verge",
-          "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some…",
-          "published": "2026-11-24T17:30:00+00:00"
-        },
-        {
-          "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-          "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-          "source": "TechCrunch",
-          "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
-          "published": "2026-11-24T17:29:09+00:00"
-        },
-        {
-          "title": "Tidal will start banning AI-generated music next month",
-          "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-          "source": "The Verge",
-          "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months…",
-          "published": "2026-11-24T17:17:09+00:00"
-        },
-        {
-          "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
-          "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "link": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T17:07:41+00:00"
+          "published": "2026-11-25T15:14:32+00:00"
         },
         {
-          "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-          "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-          "source": "TechCrunch",
-          "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-          "published": "2026-11-24T17:00:00+00:00"
-        },
-        {
-          "title": "Porsche 718 Boxster prototype drive: This electric roadster is real",
-          "link": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
-          "source": "Ars Technica",
-          "summary": "Technical details are still limited, but we already know it's fun to drive.",
-          "published": "2026-11-24T16:58:20+00:00"
-        },
-        {
-          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-          "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-          "source": "TechCrunch",
-          "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-          "published": "2026-11-24T16:46:00+00:00"
-        },
-        {
-          "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-          "link": "https://news.ycombinator.com/item?id=50630809",
-          "source": "Hacker News",
-          "summary": "Basically the title. Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models. Our only usage which I think could get us flagged is automated regression benchmarks whenever we change some AI settings. But this is not…",
-          "published": "2026-11-24T16:45:44+00:00"
-        },
-        {
-          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-          "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-          "source": "TechCrunch",
-          "summary": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
-          "published": "2026-11-24T16:40:46+00:00"
-        },
-        {
-          "title": "Active intrusion campaign against Check Point security management servers",
-          "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+          "title": "Rumors swirling that labs might have cracked Factoring in P",
+          "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T16:32:17+00:00"
+          "published": "2026-11-25T15:08:44+00:00"
         },
         {
-          "title": "Jetty Pro",
-          "link": "http://hypercritical.co/2026/11/23/jetty-pro",
+          "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+          "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+          "source": "TechCrunch",
+          "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+          "published": "2026-11-25T15:08:37+00:00"
+        },
+        {
+          "title": "The Verge’s guide to affordable holiday gifts under $25",
+          "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+          "source": "The Verge",
+          "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with what we came up with. For this list, we've rounded up a…",
+          "published": "2026-11-25T15:00:00+00:00"
+        },
+        {
+          "title": "I checked Clojure's core with Lean and found unreported bugs",
+          "link": "https://s.conao3.com/blog/2026/e4f733",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T16:23:02+00:00"
+          "published": "2026-11-25T14:56:52+00:00"
         },
         {
-          "title": "No more heated seat subscriptions for cars in New York from 2027",
-          "link": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+          "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+          "link": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
           "source": "Ars Technica",
-          "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
-          "published": "2026-11-24T16:20:37+00:00"
+          "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+          "published": "2026-11-25T14:29:43+00:00"
         },
         {
-          "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-          "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-          "source": "Ars Technica",
-          "summary": "\"Without this funding, activities would be delayed.\"",
-          "published": "2026-11-24T16:12:46+00:00"
+          "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+          "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "source": "The Verge",
+          "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on…",
+          "published": "2026-11-25T14:12:33+00:00"
         },
         {
-          "title": "Homo erectus lived in the rainforest alongside Denisovans",
-          "link": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
-          "source": "Ars Technica",
-          "summary": "You can learn a surprising amount from a few loose teeth.",
-          "published": "2026-11-24T16:01:19+00:00"
-        },
-        {
-          "title": "A training engine for your local model, using your idle compute",
-          "link": "https://github.com/sous-labs/songe",
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
           "source": "Hacker News",
           "summary": "",
-          "published": "2026-11-24T15:03:40+00:00"
+          "published": "2026-11-25T13:33:07+00:00"
+        },
+        {
+          "title": "AI may soon change what it means to be a theoretical physicist",
+          "link": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+          "source": "Ars Technica",
+          "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+          "published": "2026-11-25T12:00:28+00:00"
+        },
+        {
+          "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+          "link": "https://github.com/xoxorwr/pw-loudness-eq",
+          "source": "Hacker News",
+          "summary": "",
+          "published": "2026-11-25T11:34:25+00:00"
         }
       ]
     },
@@ -291,6 +291,118 @@
       "id": "politics",
       "label": "Politics",
       "stories": [
+        {
+          "title": "MP calls for action after her likeness used for AI porn deepfakes",
+          "link": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "Mims Davies urged people to report any incidents so that “culprits can be held to account”.",
+          "published": "2026-11-25T19:01:59+00:00"
+        },
+        {
+          "title": "Farage helps launch new campaign against the UK rejoining the EU",
+          "link": "https://www.bbc.co.uk/news/articles/cmewv071817po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "The Reform UK leader reunites with businessman Arron Banks in support of the Keep Britain Out campaign.",
+          "published": "2026-11-25T18:42:44+00:00"
+        },
+        {
+          "title": "Group of Senate Democrats push to add freshman to leadership",
+          "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+          "source": "NPR Politics",
+          "summary": "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
+          "published": "2026-11-25T17:30:47+00:00"
+        },
+        {
+          "title": "Badenoch challenges Burnham over university fees for EU students",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
+          "published": "2026-11-25T16:46:17+00:00"
+        },
+        {
+          "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
+          "link": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars.",
+          "published": "2026-11-25T16:45:09+00:00"
+        },
+        {
+          "title": "Badenoch presses PM over university fees for EU students",
+          "link": "https://www.bbc.co.uk/news/videos/cv8e04gz1gwjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "The Conservative leader challenged Burnham over whether EU students in the UK could pay lower university tuition fees as part of his deal with the bloc.",
+          "published": "2026-11-25T16:35:32+00:00"
+        },
+        {
+          "title": "Reality TV star backs extending sex education to 18",
+          "link": "https://www.bbc.co.uk/news/articles/cqgkl38j1r76o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "Georgia Harrison, who was a victim of \"revenge porn\", says children are exposed to online \"poison\".",
+          "published": "2026-11-25T15:03:44+00:00"
+        },
+        {
+          "title": "No 10 does not rule out inviting back influencer at centre of video row",
+          "link": "https://www.bbc.co.uk/news/articles/cx987j6e26elo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "It comes after Kemi Badenoch called on the PM to apologise for allowing an \"obscene\" video to be recorded outside Number 10.",
+          "published": "2026-11-25T14:41:27+00:00"
+        },
+        {
+          "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+          "link": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+          "published": "2026-11-25T14:10:38+00:00"
+        },
+        {
+          "title": "None of UK government's £2.5bn steel package spent in Wales, figures show",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy0r98r26po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "Wales is home to the UK's largest steelworks which is currently transitioning to an electric arc furnace.",
+          "published": "2026-11-25T13:04:25+00:00"
+        },
+        {
+          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+          "source": "NPR Politics",
+          "summary": "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned.",
+          "published": "2026-11-25T11:50:05+00:00"
+        },
+        {
+          "title": "Moderates want a Medicare for All rebrand",
+          "link": "https://www.politico.com/video/2026/11/25/moderates-want-a-medicare-for-all-rebrand-2237528",
+          "source": "Politico",
+          "summary": "",
+          "published": "2026-11-25T10:45:00+00:00"
+        },
+        {
+          "title": "Republicans’ midterm reckoning comes for the RNC",
+          "link": "https://www.politico.com/news/2026/11/25/rnc-gruters-crosbie-republican-party-future-01182563",
+          "source": "Politico",
+          "summary": "President Donald Trump’s handpicked chair is fending off a challenge from his own colleague as Republicans grapple with who should pay the price for midterm losses.",
+          "published": "2026-11-25T10:45:00+00:00"
+        },
+        {
+          "title": "Alex Bores on whether Congress can regulate AI before it’s too late",
+          "link": "https://www.politico.com/video/2026/11/25/alex-bores-on-whether-congress-can-regulate-ai-before-its-too-late-2235705",
+          "source": "Politico",
+          "summary": "",
+          "published": "2026-11-25T10:00:00+00:00"
+        },
+        {
+          "title": "Ministers ask public for views on changing age of consent",
+          "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Politics",
+          "summary": "Some campaigners have argued that different limits should apply, depending on the age gap between the people involved.",
+          "published": "2026-11-25T09:48:05+00:00"
+        },
+        {
+          "title": "Moving to Florida may become a choice of some Republicans after midterms",
+          "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+          "source": "NPR Politics",
+          "summary": "In Florida, Republicans kept power of state government after the midterms. It's now the largest state where the GOP is still in charge.",
+          "published": "2026-11-24T22:54:01+00:00"
+        },
         {
           "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
           "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
@@ -313,62 +425,6 @@
           "published": "2026-11-24T19:49:04+00:00"
         },
         {
-          "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-          "link": "https://www.bbc.co.uk/news/articles/ckpdw4d0z2dwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "An alert issued on Tuesday warns of an increased risk of sabotage attacks such as arson and threats to staff.",
-          "published": "2026-11-24T17:39:32+00:00"
-        },
-        {
-          "title": "Reform ends Senedd boycott",
-          "link": "https://www.bbc.co.uk/news/videos/cwlymzly9e2xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "The party had boycotted full Senedd meetings after a member's speaking ban over remarks about immigration.",
-          "published": "2026-11-24T17:34:31+00:00"
-        },
-        {
-          "title": "Andy Burnham defends inviting influencers to Downing Street",
-          "link": "https://www.bbc.co.uk/news/videos/crjwjndzn27wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "Burnham's team defended inviting influencers to Downing Street after a content creator deleted a video made outside No 10.",
-          "published": "2026-11-24T17:09:15+00:00"
-        },
-        {
-          "title": "Public are sick of 'out of control' welfare system - Tories",
-          "link": "https://www.bbc.co.uk/news/videos/cx7v2r6zl27vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "After Disability Minister Stephen Timms concludes his statement, Shadow work and pensions secretary Helen Whately delivers the opposition response to the Pip benefit review.",
-          "published": "2026-11-24T16:20:10+00:00"
-        },
-        {
-          "title": "Tories accuse Burnham of turning No 10 into 'joke' after influencer video row",
-          "link": "https://www.bbc.co.uk/news/articles/cv0l3nlgl80ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "Social media influencer Max Balegde has deleted a video filmed outside the door of Number 10, which was posted on TikTok, in which he mimed along to explicit lyrics.",
-          "published": "2026-11-24T16:11:29+00:00"
-        },
-        {
-          "title": "Tory plan to sell off London's Victorian jails to raise £1.4bn",
-          "link": "https://www.bbc.co.uk/news/articles/c607417kgx81o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "The party says the move could fund the construction of modern purpose-built prisons elsewhere.",
-          "published": "2026-11-24T14:02:03+00:00"
-        },
-        {
-          "title": "Key takeaways from the Timms review into Pip disability benefit",
-          "link": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes.",
-          "published": "2026-11-24T13:46:07+00:00"
-        },
-        {
-          "title": "Prince of Wales makes first ever Downing Street visit",
-          "link": "https://www.bbc.co.uk/news/videos/c6evr4vzydpyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "The Prince of Wales walked up Downing Street for the first time, as he visited Prime Minister Andy Burnham.",
-          "published": "2026-11-24T12:41:47+00:00"
-        },
-        {
           "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
           "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
           "source": "NPR Politics",
@@ -381,20 +437,6 @@
           "source": "NPR Politics",
           "summary": "President Trump touted the return of Jensen Huang to Nvidia's C-suite as good for the company -- and good for the United States economy.",
           "published": "2026-11-24T11:42:24+00:00"
-        },
-        {
-          "title": "Prince William meets Burnham on first Downing Street visit",
-          "link": "https://www.bbc.co.uk/news/articles/cm5y1xk1gpqvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "The Prince of Wales is meeting Andy Burnham with homelessness expected to be among the topics.",
-          "published": "2026-11-24T11:37:53+00:00"
-        },
-        {
-          "title": "What is Pip?",
-          "link": "https://www.bbc.co.uk/news/videos/cqm2jyj77xm5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Politics",
-          "summary": "A report on Personal Independence Payment (Pip) is set to recommend overhauling assessments so they provide claimants in England and Wales with more appropriate support.",
-          "published": "2026-11-24T11:25:03+00:00"
         },
         {
           "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
@@ -425,25 +467,11 @@
           "published": "2026-11-23T22:29:53+00:00"
         },
         {
-          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+          "title": "Ex-White House AI adviser weighs in on national security as Huang is back as Nvidia CEO",
+          "link": "https://www.npr.org/2026/11/23/nx-s1-6050936/ex-white-house-ai-advisor-weighs-in-on-national-security-as-huang-is-back-as-nvidia-ceo",
           "source": "NPR Politics",
-          "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
-          "published": "2026-11-23T12:42:03+00:00"
-        },
-        {
-          "title": "Gavin Newsom’s 2028 audition",
-          "link": "https://www.politico.com/video/2026/11/23/gavin-newsoms-2028-audition-2236370",
-          "source": "Politico",
-          "summary": "",
-          "published": "2026-11-23T10:45:00+00:00"
-        },
-        {
-          "title": "After midterm losses, Republicans debate what's next for the party",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6044259/after-midterm-losses-republicans-debate-whats-next-for-the-party",
-          "source": "NPR Politics",
-          "summary": "In the wake of their midterm election losses, Republicans are discussing what happened and what the future might be for their party.",
-          "published": "2026-11-23T09:45:06+00:00"
+          "summary": "Nvidia CEO Jensen Huang is back in leadership after resigning recently. Ben Buchanan, a Biden administration AI adviser, discusses what that means for U.S. national security and chip exports.",
+          "published": "2026-11-23T22:23:29+00:00"
         }
       ]
     },
@@ -452,284 +480,284 @@
       "label": "AI Regulation",
       "stories": [
         {
-          "title": "UK financial watchdog delivers AI warning as Meta launches adapted Muse",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa3dIeGlGcm82OGVfY2ZzWWFXY3FWZ3RVTWFyZV95dlN2a1NWTWhiV19OX1A2OVBTNFI5dGF2dzVMQVhmNjdxa2taQkpHeUpJZnVxTlNZYmZPVFJXYkdxYTNzLTVxTHVfSVVOU1pNbFBUU3BMYzNCZ290d3RIN0RzbE8xekZxNGRBTVdYZlY5UlVpMnJFMFdSNlE5WkpENThvSlVCZjE3eXdMY0ZqUkNSYkxQeGxLMlVJZ19XaGg4NkVDcVU?oc=5",
-          "source": "Reuters",
+          "title": "Explainer-How China got access to Nvidia’s AI chips despite rules to stop them",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTTNQeEdLeWRwYjFmd0tRZS13LUFDS25Vd1lXUi1uQ0Z4UzhvOUFzUHVjVWNyM2E4MTkzeUR0cVZyMnIxa09UZ3pOUVNZbjROczJiWTN6YVdSWHZveTJqYUdZWWZnM0ZlbkFUVS0ycnJsb0FmZm0zc3RlM05zWDJGanVITjNZZ0RDbG1CaXJSTGhCN051Z3RyYVR4WnNkMlU?oc=5",
+          "source": "SRN News",
           "summary": "",
-          "published": "2026-11-24T21:43:35+00:00"
+          "published": "2026-11-25T20:34:45+00:00"
         },
         {
-          "title": "AI Regulation Could Put BILL Stock In Focus",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVnE0elJJXzZ1cEh0elRETEtPSHdramFXNVpaaEwyRXBDN2RUdEhtNFVZZ0hFeGUwTXpKMWJ0a3ZlUTVyeGF6dWoxQ1pCdkVzTl91NlRYdFp1RHdrLW9PelA4czZnMGs0eDc1V3V6VmxqWHliYmo1b1lCZGJ4NU1UQjV6a0xSX1pBcTFKZTlubkdTemFlOEdn?oc=5",
-          "source": "Yahoo Finance",
+          "title": "Proposed AI Rules For MCPS Classrooms Spark Concern: Report",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORV9idmNmUmdkQXRQZFdQZVJLVi1wS05NOVk3MklLS2tKcjNrcnJqT2daWngxLVZIcjdZcFBMa0dzUnpPWUNNck1QNW1SekRVdXVaM0FYclVRNzBIbDBmdjdmTDRfeDM2TkdZMDhabTBfOUdLeWtidTk3dXo2RS1hTlJZWENJTE1jaFpXNlBLT2lvMXN1VUHSAawBQVVfeXFMUGNrT2cwcFR1RFdEa05zdnRrNXB6YXNMLVEtcl9sRkJ5ZkFNRnd6YlZGRTNmbWVZY25DWWdMQnllRFRfN3BZcVhRR3RkdTdGdEVTY1pxUXpJS2dkWVc4STByeHhsbmJfeFRKRHVvNWFfaDFwdndSTGVkSi1FSkltZHQzMGtpOGwzWUxMUW5tb0djWTJ6YkQ4NWtIXzJIbXY4ZHlSRjZaTndOOUFWLQ?oc=5",
+          "source": "Patch",
           "summary": "",
-          "published": "2026-11-24T21:11:52+00:00"
+          "published": "2026-11-25T19:13:27+00:00"
         },
         {
-          "title": "Meta (META) Muse AI Warning Raises Fresh UK Regulatory Risk",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakJ0Zmo2YVZhV2EzVlhHQXdVLWtCNXliSjQyTXhJM2x2U3l5R3dQOWtqQmNXREFVXzZqTFBWYXpWdWp1VkNQcm1IS1BwdURQX1hOb0VlLTBBLXVmSDNNY1k0Q0Z4dEozaU1GNC1fM2ZhX3RkaXpXV3lhb1hzeFYyUlZVRTRvczdIQi1hZHZxVm1UTVdvWlBCSERrb1k4MEdaUF9GdzdEd1FoY0RyT0NuY1FDV09RSHhQT0hzbEZOLU90cnhfeFHSAcsBQVVfeXFMTmtTcW1DdG1GMmFLXzhXa1BlZXBYS3RPWEFfLU9KTE5kNElRa21LX3EwRjE0OHFXLXpBY19CVV9JcnJKQ1FlaUQ2UVR4S0g3VUhQTEtMUFc5blZ1bE11bUhsMWEwczh3SWpWNzQxS1FqeDNhekY2NzNablBER3lqQ0Z0RFRJRHNiN093UnFoSnh3RjViU3dDQ18zeDROS3VxLXBXQkU0UGx1RktPeDRwUXhYWVB3ZU1MT2k3cGdEQUdWOHI1UEwwdTN3YmM?oc=5",
-          "source": "Simply Wall St",
+          "title": "Man arrested for alleged AI videos of San Jacinto County sheriff claims free speech",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdTRYcklTOFRuMFVEdWM0TzRvOTJlZ0wtQjRkbml3eFJvbHNYa1IzcHJoSkVwZUxpakI4U0xESzdvcmdCdTF0UFVNZGxWTWk2b3VwbzZobmNFTE1WeWFVUFlKdHo1NkdZc215d2NpZGt6NTlQeXFVa1MxaVJWTGFGdVg5QkpzaXRadWhmaDZSNDdKeGVGcHFMVVJFdV92bzh6WFllNGp1cUFZbFg2VDNESjFLbWhmTE9qdUlFM1l5amJOTzNSQmhIWTRfbDhZOV9hbFI0THNyMnNtYjEyWWhua3FoWS1WYXpDTldLYkhZZ3hXVGxGeE1EQU5KeWFKd1NiVXJlaUhaVVI4a0nSAZMCQVVfeXFMUHA2OWpQZV9rSVZrcElEWTY1Nk1qT3pMQjh3NWc4eXU4bjAxYnBWdlk5d0tGVnNVY18xTkl3VktRUDZrVk9PU1NaaG9TWWEya211bHQ3YmdvZGc5aDg3Z0JTMEZKcEgweEE0X2M4cVgwaVFvclRpT21MUkRLdXlNZ0R2dG5GTWwyT3VsZk0wSV82d0pPUEt0d3NCQ3hGSU5pSVZ0emFHYjg1QW5kRFJqcDJGRENJei12c3ZFNnA5QUVXVlNlQzJYUVdBMkVyck9JMzJGS3J5TlNWci1heFNWU2lOU1d5Q0hLTm1TazZKTlN2eFZaQUx5NHc5QWlyaFlFbFNEM0k0T0hkLU5DanNBUnJ6TGM?oc=5",
+          "source": "Houston Public Media",
           "summary": "",
-          "published": "2026-11-24T21:10:50+00:00"
+          "published": "2026-11-25T18:43:54+00:00"
         },
         {
-          "title": "Opinion | America Hits the Brakes on AI",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95ZU9ZRkE3LUNSUWR3V3N3NEt4akgxVmstY3ZDN2I4N3JKQjZfUWotdnB4bjdtbFg0YlpSOEpRVm1PeUtHX2s3bkhHczQ2OGJqdG9VcVdDNDZBMnVuQ0xjQ0JyM19sTXRTTFJJZ1BYN2F4dGdh?oc=5",
-          "source": "WSJ",
+          "title": "Character.AI faces state AG challenge to auction of 21 million users' chats",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9yN01jRWRSeHQ4RUFCdGptTEtzaGUzRkdoTzY0by1ERGpNZ1Vic1d6dkxpU0l1QzNOX0c5OWFsX042dDR6M0lBaE1OdTlDMDA3TlByWW9hZnhiUm5yM0V5Uk12N19KUXZiX0k2Q2ZWbDE1UHVneldmaDNDanB2Q3NFZU5jaF9QQUtKVDFaeFA0OGNSMlRuNDhR?oc=5",
+          "source": "MLQ.ai",
           "summary": "",
-          "published": "2026-11-24T20:49:09+00:00"
+          "published": "2026-11-25T18:28:37+00:00"
         },
         {
-          "title": "Ireland seen as light touch on AI regulation because of reliance on tech, Oireachtas told",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0p0Yi1PeGNUd2FWb3N2Q0tIYkFNcGd3QVQ5UWV0dnV6bDI3dXRObUZFTTM5NXdXUTNBUlNnSXZJQ2ZfcDhfWHdtc2w4N3EwM3Z2OFdPc09YejFzSkdOSDVVejkxRWg2RVI0aUJSOTNVMU83alN3bTBQcjhmR0NBdGpfLVIyd3NJR3k1cDlUTk9aeng4S2tsYUdZUThXZ3hvdXhBYXBuTDM3SEZUV2F0UjZIQVZYVHYxR2s5ZVkyZ3VtYmZIaU9GakVfMzcyVDJMWFE?oc=5",
-          "source": "The Irish Times",
+          "title": "Democrats must unite on AI regulation. Here’s our three-point plan | Nathan E Sanders and Bruce Schneier",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORnlCNHJ3czBWVF9ZZjZ2TVBpYXAzNElLZ3ltcTVpX0VxSEJQcDFKdllnLTBSMWNYVHp1MDc1THM2dTJLLTdzNTc5c0g2MkR3X1EyUW4ybGFUUXpNT29Fb2ZFMmNYajRjcUI2UEh2MHktNTIzMDkwb1huTlFGOEUtYjdsb2RTcWNVcmc?oc=5",
+          "source": "The Guardian",
           "summary": "",
-          "published": "2026-11-24T20:19:55+00:00"
+          "published": "2026-11-25T18:23:00+00:00"
         },
         {
-          "title": "FCA warning on agentic AI: Regulatory responsibility remains with firms",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnVUMFp6ZGctN3FZbzQtWk1jM040ZUUzTWhfSHFTcEtNRmVyRk1nMWE2OVVrek1pNi1QX0p1UTZ6XzFuMUYxVGdFSlJwbEhGc3VrYVNnQktPQ016N0tLcVpHX21NcVA1QlpIZllYTkRpOElWb1k5UXI1WGNXeEJxZWdyckZ5WW82NEhRdDQ1R0huWGEyc0thREIzSXNqR18zRm9JMldnRFpXd25mM1ZYbFlaUV8?oc=5",
-          "source": "Professional Adviser",
+          "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN1pwRHJFN1ZiXzJpeXpsLWI5RGJNMTNUU3VSNFY5Q21iUkVkNDhneFg2VFg4TTI3R3k5RXUtb0hBRGRhYkVXdXZablA3dG4zSF9yc3Q5YmVDTjBBZjAxMXJFWUdCUFFwZHQ3dm9QWG5uSWhXdS1KRGRVY9IBgAFBVV95cUxPYW9MbXdwMWFTZFd6dmhZLVNGYzdHUmNDaF9VQk5jN2lMdDFfU010WUdOX2t1ai1qNXYtZi1TbnVTbEt6b0pvejRsdjJoYmZuWXJwZjl4TkpuZHNpeHNIbEpFZkxuc3RnNExQZGRWZ0ZQTy0xYU9wYnhCT3k5a2tBUA?oc=5",
+          "source": "CNBC",
           "summary": "",
-          "published": "2026-11-24T20:02:19+00:00"
+          "published": "2026-11-25T17:28:24+00:00"
         },
         {
-          "title": "US Catholic bishops' new AI task force urges regulation and worker protections",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHcnhmV3YtdHNMNzZwd0F1dXQtc2xDOUlWTTZYWUdpY0ZSRF84TGo5a3VhNjRYakg1azVhM291VkFsSXoxQngxVk55MExFZGhpTkszdk1FOVNGckZQZUpNWVJJRHBkR0NhMlFwQl9PVUU?oc=5",
-          "source": "Hays Post",
+          "title": "“Rewrite this as a new ordinance”: Inside the ChatGPT transcripts of a city manager",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVi0zRV9GdURTbmh6VHpTaTBXV3RtRzJYa1BPbS1SUDJiU0ltdFRpLUtqb21ta3p2azNPR2ExaWVXc0tRU2FDX2wzajhQWDRFeWUwUVdXYXpWQTJhWXYwMVpWZ2pNLXNfUU5XRldLQjJMdFNpc3diWFB5Mm5TMjhFVkdSNXhwR3dsclF5Z2wzQ2VNLThsNFVrX2RjamRMUzNVd1JqNUZWcmVaS1k?oc=5",
+          "source": "Transformer | Substack",
           "summary": "",
-          "published": "2026-11-24T19:04:10+00:00"
+          "published": "2026-11-25T17:02:08+00:00"
         },
         {
-          "title": "Auto AI Moves from Pilot to Production: Governance, Liability, and Contracting in 2026",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXdRWWI2cDctOHFVTGlDUWpKNXlIa3pGWHJ1TEp0dVZuWWJWeDJ3UGFGMC1Dbk5TeGU4bnFsOWJJSnlqREI4VFFGNTdBTWV1ckNnMVRuR2psZ2pBbm1HMzh4UC1reVlCU1lTdld1ZkYwVHVsaVpGSGNqcEZ3ZzhXQjNzRFhxM2tZOTFEU1RFVW1Mc0RwSk1CVDBlSk1LaEhYLUtfQVJZUC3SAa4BQVVfeXFMUDNuX0hXeVNENHRmVVE5UXRhcWh4aTVJbUd0WU9RcG9SSG81VzNidWw4VEx3NUhhZm55c2NpcUFkRno1MTNGUGc2cjg0aFlNUGJ4STEtbGxwVFNkZWx5ZFpzVmhoLWJEaTVBa1hOdTJMZFZTX01nSmJOV1NXMVRqdWpPVk5WS1p3T1ZuTkc3VHJ1d0lHYllpUHAyYUNpREVOZ09XLVVJY1hrVUVSM21n?oc=5",
-          "source": "The National Law Review",
-          "summary": "",
-          "published": "2026-11-24T18:03:34+00:00"
-        },
-        {
-          "title": "Data Privacy and AI Regulatory Quick Clicks | Issue 35",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2Y5R2p0ajlpSExKTE9jWloxMlRDYl9sVEl5NDMyd3RKa1M5ZkpadUtndTR6aWxZYmMyakVmOHdJNy1yN19IM3ViaTVIU3hpV2ZENHRrekdNVUYtYXVuVmk0YXVhZmZoSGFPQ2ZyNDI5XzlCdEdJRlRvd2RnN3phQ3FtOHQyQmFZUnhZOXFEdDVXdnhZUzIzck1BM05IT3EzYnJZU194U29LYXRxaURIZllR?oc=5",
-          "source": "Legal 500",
-          "summary": "",
-          "published": "2026-11-24T18:01:39+00:00"
-        },
-        {
-          "title": "FCA Publishes Future Vision of Agentic AI Regulation -",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVVmTEtBS2N0SVF6VVFMR0VTTHk5cmUxNU1Yb0pfX0FOSzNLU3p3NDhkUG9fMGIyc2xxdmdtUDJTTVJLU1pnTGZ0SGFSeXpMNXpDM2tzc1dJLS1ETS1HWnQxaUU2a3Q1YngyZElQT1J4QTY1a09uT0hpV1VWa3dYUnd4c0hpR0RFOTdjbElsUFVPVFk4dnc?oc=5",
-          "source": "Insurance Edge",
-          "summary": "",
-          "published": "2026-11-24T17:52:29+00:00"
-        },
-        {
-          "title": "U.S. lawmaker calls for government observers inside AI companies",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEdTSTJObklVU0hvYW1JNDZxQ1V4UVNCZy1QaW5KUmhiWXVOLV8tbl9iYkRlRDNHVkw0M2dheC1yT29uUXRrNUd6RHVGS0F4Rk8zczJtQ1UyTFBZU196b21nSllRTGRFSEVRZjFMd0JCWm1NZlI0UHJPSVJGbllxSllQT0dGZ1puSm9iX1FqazRjWHFCa1ZmUWVacUxfUQ?oc=5",
-          "source": "Superpower Daily",
-          "summary": "",
-          "published": "2026-11-24T17:45:26+00:00"
-        },
-        {
-          "title": "Romney on AI, Huang scandal: ‘Smells of profit, corruption and perhaps worse’",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzB0TzZ1SGJNbXprQWFBSmozd25XYUZtcXFVOW9FUG5ycERKT1V4QzBTZWtJQjZlUUM2RmFFVTQ3dXBEZXNucDYzNzJPazdwSzNHdnRwQkVrN3ZWa1pUeUtMYnZYZmQwdHo1Tm1ucEVCSnBlS2FybWROYnZ5SUgxTzVqUnJ6QkJ0QmJz0gGQAUFVX3lxTE43YU5odXQ5RUNzZ2xfaDhrM0JzdDJFc2xrMHM4T3lvZUtOVUdCTGF1VzBUTFRLSGg2RV9nR1NUUnUwaGw1YzdJZjJsVzhVTVZ6YUhkODRpaUR3emVJN1hIa1VLRUhSTTRRTFNrOEE1YXljQUF2cUoyZnNLOXNOZnFiQ0lyNzJPX0loQUFGai1vRw?oc=5",
-          "source": "The Hill",
-          "summary": "",
-          "published": "2026-11-24T17:30:00+00:00"
-        },
-        {
-          "title": "Intelliflo CEO Responds to FCA Approach on Agentic AI and Advisor Accountability",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkYxQTdBMTNhV2JvTTF0YnpFMzh3QjRmWU5oOV9wd2lHTjU2NDlKeGlBLUFJTHIzRURKMUk5R0ZreTROQXBVdmNDeDNVaGFJN0F4dEZGa2tJajBVQ0tseDI1dktielkwRHE2MktYUEc0WWQ3cm1QNElrLVJNWkdlZ3ZnODY3bU83XzdmM29jcDlwZWhXbkhFa0c2bXFOdTlELTdHY0lRUVM3clND?oc=5",
-          "source": "FF News",
-          "summary": "",
-          "published": "2026-11-24T17:25:56+00:00"
-        },
-        {
-          "title": "Democrats Plan AI Hearings as Nvidia Revives Chip Export Debate",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjVoVG1ORWlfLTZVMTdhZ194WGZwQU5PMmxLZE9fSVQ0eDdRc1NGVmY1bFlSbnlqWlFIWE5GU2ZORnRmMV9LUWt3SWN5TExpb09IbXhGckZBdkVNa3ZrQVpoeGxMbnVlOFdVZFFWYlFGNDJXa0VkSS1YNWpkQ2tTYXNnT21XejFGNERpYndDR2lwcjl3RHNlT3JBVFA3VFl5dmRTWk5OTWJNV21oWG1STnNnZ2ZMMC03amVyRXdB?oc=5",
+          "title": "Exam Prep: What State Bank Supervisors May Ask About AI",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMFdsZlNSWXBkYmhBQ2dZekpHTXF1ZkoyejI3QjdYbElXai1hc242OHJxTTdKVjN6clZEdzNnSTBZekNYQTl0M2dvamZfeEF3UmloVFRVMW92ek51MWxUeDRncDFJR0hZR1M3Y1QtV3FGdXJqcmpyNVZYb0xaN21zMWNqTG55RkpTYWRZeDdMRXFpTVFmVkh6X21qZ0hQYkpDcVc3dUI4bjA?oc=5",
           "source": "PYMNTS.com",
           "summary": "",
-          "published": "2026-11-24T16:56:41+00:00"
+          "published": "2026-11-25T17:02:07+00:00"
         },
         {
-          "title": "New FCA webpage – Our approach to Agentic AI",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb2didlhQTEM5bHUzU3FYMm9hQnlKWklfOFdlTW5oUkxDZHc4SHhhYnNfSGprQVNzSUp6cnV6dUUyVFFDeEtQOFNITEc2WGhCTkNxMzlweGdBWUt4T2pMWVdKT1pQZHBQXzhVQkQ3RF9sZzlETnV2ZmZZek9EVi1yQlJJRmwzZTNWeDlJVThXYw?oc=5",
-          "source": "Global Regulation Tomorrow",
+          "title": "Why practicing U.S. lawyers are returning to law school in the Age of AI",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2VqQXl5QVlybTA5VUhyQm5FRXJLSnlHNk9NNjhOQzcyZlpLTlpKYWZMeHljLTZXM19RaWE1bE43M252Nkl4WVh3c1ZxX19MRURBVFBvRGxzOHRsdkdTSGZzdDlma0ZwazlNYXZUc2xMdGxTNGFHQ3MxbGl1QXdHYTA3R21sTUxTS19IZFZ2a1J6cWNtUzJUX2tXbV9PRXRp?oc=5",
+          "source": "National Jurist",
           "summary": "",
-          "published": "2026-11-24T16:51:38+00:00"
+          "published": "2026-11-25T16:46:28+00:00"
         },
         {
-          "title": "School district’s draft regulations would give teachers autonomy on if, how AI tools are used in class",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHdjUta3puUng4STNvQWRYYy1IdXE0SGtOUl9qSDhNVVBvdWFXQ1BzQmZpYlZEMlNkdlMzenZLcUhSRzFkamxjUlZpVWJYeDhLdGFmQXpqYlNrRThKUEl3UVZCV0VITEptNGdN?oc=5",
-          "source": "Bethesda Magazine",
+          "title": "AI Regulation by Industry? OpenAI Proposes Common Limits",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGNaS2NOMk5aX0JXZEhGaDJPdHVVWW41LTFpSk1zREhablpSaTlpQmxXeldKRkwyQmZRNXAzRHBsRGU0ek9ZX1ZSQmhVRHdOQTBaM0d0YzN6LXJQcWZFT3JQMkdEdXV1dWtlc1FuY0xPTTZ6NmVLNTc4ZDJFQ3FXckwwT3VTZw?oc=5",
+          "source": "Gotrade",
           "summary": "",
-          "published": "2026-11-24T16:48:34+00:00"
+          "published": "2026-11-25T16:42:00+00:00"
         },
         {
-          "title": "Hassan says AI regulation, investigating tech outages will be top priorities in January",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUVmWUJXNFJTclhUa3V5eXZPTzJjb0FIa1B1Q0UzYnRWVUlSdHctNUxJTDdLaHE2X3NDN0YtaGRrT2NQVWlCU21scWplZVNFWjJNZDhybUFwbXBxUTlYbUtFWFFmQmd6MEY2REZhanBUSHFUSXdpdE03a05zNGtNM3JJMVBTT2d3cVJpR1JPRGV4LXlJT3NTRUd2ZFladEhDNTBTSVZRSVJxenZfblIxc3pOUXBNUQ?oc=5",
-          "source": "New Hampshire Public Radio",
+          "title": "Fed’s Bowman Says Regulation Must Keep Pace With AI, Digital Asset Innovation",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZdzVrUkNaTjh5SThXMU9FZU5lUk9kMlEzUlpteFhEb0NyWlI5bDhfTkVQTjVDNWFZY0ZYRERrT1ZMck9aX19wamdrQTVvV2RDZ3hRaQ?oc=5",
+          "source": "bloomingbit",
           "summary": "",
-          "published": "2026-11-24T16:33:00+00:00"
+          "published": "2026-11-25T15:06:03+00:00"
         },
         {
-          "title": "UK Warns Tech Giants AI Agents May Fall Under Financial Regulation",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2FmSmp6U0lJTUU2Qkh3N1RHNXVCTEZLWm80dHVHakFNdzdnWk4tUVdJLWJzY1NMMTJzQ3d3SGROZm5vUkMwRXZZbHJhYzdLYlpDTWNRbW53Vlhad3pSZXFVejRrQUF6RmIwNUdjcThBdmRRcFRUZ2Jxd3BwZHJnekQwOE4tc1NxTzJjUzBuSGZ2UDQ1NzFJREhMR1ZzOS1xQmc?oc=5",
-          "source": "PYMNTS.com",
+          "title": "Fed’s Michelle Bowman calls for regulatory clarity on AI and digital assets",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT29ZLTVGdmdzQkszVDFZRmxuZGFjc0ZLeHk4UWhCY0ZRQnhiaWtfbnBRcjlmZGJIdExsWHlBVHhTZjVBT2drbk1JQXdHeW9GRExpYVRJZVNtSXc1X0dEclY0T0NKNkhORkxNa3hIZUVFbU5ZNEZLT0pad1RkMkE3RA?oc=5",
+          "source": "Crypto Briefing",
           "summary": "",
-          "published": "2026-11-24T16:23:22+00:00"
+          "published": "2026-11-25T14:59:07+00:00"
         },
         {
-          "title": "AI safety needs rules and power, and Australia should be securing both",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX241UDBJRUdNUHJ4Yk1ZYzVfSHlpd25aMENNOVROcjVITEJCM3FEWmpDRUpwNzh0VU1qZWhTS3NTbVliQXJtZjRWMW9ybnZBOEtMd0UxVFdweVF5MEJZdm55eGQtQUZPUDdZTGd0TTRvaGYxYU53c3hsUnV3QUFXN194YXVURkJ3cno1eTAwaGN1U0lxZ1E3Z0duUmRXaXhqUXh4V3hOenZVMDhENEstanZoRFM0R3NMMTBZbjZ1cERfSDJsMjFEOGNrTkE1MjB4djQwS3VJUWk2ZFRZ?oc=5",
-          "source": "Capital Brief",
+          "title": "WNYC's Jon Campbell discusses how Gov. Hochul has positioned herself in New York's AI debate",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeEM2TTRVWmE5WjNNTkpSZnowcldGSFU4dzVBeTJDYl9Db2tIMExJcEljU29IekItekQyZFVEU3ZLaGlCd3lyVjBJY3lMNUxNTktIT0VlZEotMmhiWGYwZjdVTmZCV1l6WWVsZnVka3dfMUtYeVZPQjVnYzFIRDVPbUF0Z0tpVVAwSFQ1dDh2clJZZGNybWVpb29wbG92NzNGYzVIeDlXd0YtUWJ0aXRPRUlJNTI5QldBbl9yUVlXWjZVNi1yX29TZFBELXY2RzhGWGc?oc=5",
+          "source": "WAMC",
           "summary": "",
-          "published": "2026-11-24T16:13:24+00:00"
+          "published": "2026-11-25T14:54:00+00:00"
         },
         {
-          "title": "AI in the Boardroom E5 – Delaware Takes Steps Towards the “AI Corporation”",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHZMZjh6OUpyWkZTMjRzLVdRUlVqeUFCanZNYlFSbnBmald1TFlmdkdOQ1FTNmE4dkktVGV5eFN5R1ZMNFR5d0tlMkNlejY5Wk5IN19hbTVCQ2ZrYWtGbHhqMzhEV1U2MFNaMHFQbjluQlVXeHl6NWN1NGZCNlROdU9LZ0MzZEhPYlNtTGo4V2tlbHBDSjlyek5UaUhaTVdMN1Jscm0yT2pJd2swS1dnNGZNRkw?oc=5",
-          "source": "Fasken",
+          "title": "When it comes AI regulation, the public has an important voice",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGVFYklIZHRxcU5aZFprR2NvaTNOUmREb0hmUnpMRGdqX0E3VVVfSlhXcUtXR2o0Vm81X3FmYU5Dc0RESFhQellZNnVtYXc4Z2dLc1BpeDRkbGJ2dGJ1cFhHYVY2aHF4Uk1GNWVCOVVjS21CaEFTbXJDWV9pTTlVUlotcWgyVmZYSXJEcUZmTnNuODRBQ3ZfUw?oc=5",
+          "source": "Healthcare IT News",
           "summary": "",
-          "published": "2026-11-24T15:45:39+00:00"
+          "published": "2026-11-25T14:19:00+00:00"
         },
         {
-          "title": "AFM occasional paper on the influence of GenAI on consumers’ financial decisions",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUHVCSkxIZXpoLUJIVkxzRzl5NjJWeFA5Z0pNM0s2ZV9TMUplSnZGZHZ4VktWNzdwUkwyRVRfZnUxZy1FTjlfX2xxZm5qZlMwbjR5R1R2OXBIRHBnN1duR1l1bTctdEY4UnExQzFwZ1J2Wk5OQmF1aUR6OWQtdk1SMjFMcTVJMGttR1JRb1BJc1V2S0xtOXdPd2FjQzZ1bGRlQXBVVk9aLVVrZVpwSHQ3ZGtYanFBWVpRX1hvbkI5dVc?oc=5",
-          "source": "Global Regulation Tomorrow",
+          "title": "Reversa raises €750,000 to scale AI regulatory agents",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONFVibGQxd09pQkVRemNBd1lZUF9ibmttSEh2c3JuTllXbC1rQ2hwTkc1VkgtTWFqMzdPUWlTeW9aZnE2aXFnd2RmZGNMU1hYUzJJU0Zvci1rc25MNG8tNk54QzhjbXRqY0toWWhkRzktdGlNdlRyNUdzT0FKOUpvWUlWVEF4akxjLVFPdDF5M2M?oc=5",
+          "source": "FinTech Global",
           "summary": "",
-          "published": "2026-11-24T15:43:01+00:00"
+          "published": "2026-11-25T14:15:49+00:00"
         },
         {
-          "title": "WATCH: Senator Robin Padilla takes issue with groups \"demonizing\" artificial intelligence, urging the Bangko Sentral ng Pilipinas (BSP) to speak up in favor of AI adoption and foreign investment, during the Senate plenary session on Tuesday, November 24.",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRl83MmZhTkV1YmFGUDdKRlc0UjhtVjE0N2lJTURIUXlWVFJnTXhNbUxXdmFmSXFDbHdiSURsWV9IUHdnaGJhVU1YQ0JtY2JacExib084SkN0ZnVoNGxDcGh2V1lTTkR2c2tvNFRmZUk4cnFQNVowUUNrRlctSFpMNE05T1VDOEhUcGNCanB3U0tkMzNuc3ZIeldpLXpNdC1KS21FaDNSUHN6VTBPZHplQlI2UXpnaEJRUnU2Q3RLTGFQNWhIWUZPUXktNUJsNThwRVlhMkl3RUxNU1U?oc=5",
-          "source": "Facebook",
+          "title": "The real price of Jensen Huang’s return to Nvidia: Higher regulatory costs for the company — and the entire AI industry",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaXU4WUp3Z2JZazR6UjdVNXpYb3M3b29nME1Zemh4azd2a2VBcEFsbFBOdm1jTFpVQjJ4TzAxMDNaTzJDVFMyaWkwYnFYT05neFJCMTQ0eWM0THduaXliRnlIbGhpT2RhMnJ6RzB3VFVsS1ZWZVh1RXVBX2hOZTdHQVFCS1pfM1BnVkRqb1V6UjV1Tzh5OUFCTDVkcmRHT3hHNk5BOFRpTDFiUFdIVFFsbHFPU3pNQW1DSUtacmtMYmNmRDlycWYtU1ZRb3paM3NjUmJSVWpFWnFnbWpSM1EwenVjeWlpVnkzRHNxRW0tNA?oc=5",
+          "source": "MarketWatch",
           "summary": "",
-          "published": "2026-11-24T15:37:02+00:00"
+          "published": "2026-11-25T13:30:00+00:00"
         },
         {
-          "title": "No Chatbots Authorized for Youths Seeking Mental Health Advice",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xTExEdW9xYW8yajFwaHR6ZUhlUUxaR1pxRnJLMWdJMkt6Rmh3M3VWMy05eTNOUHBSc1Bkc2MyX01WTER1QU96TUd1dUVHZXFtWi1VZkNCaHg2WGZlUUdsaWpXUWtqMk9TdmlSYmM4d2ZCX2REZkFVSVBaaw?oc=5",
-          "source": "Legis1",
+          "title": "AI Regulation Is No Longer Only the Legal Team’s Job",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPME1xR3FTZ0IzY3F6YmQ1Z2Z5cHEyR0F1T2hFOUdyTW51aURjU1RDdnFIWEVvWS14RUU0TlFHZE93Ri1WdlFtTzE4YmE3Q3BLRUltYS1uSW5ma2pKTWJ4dFF5T18zRmZVYjlXcTlwc1BJcW94REQwTnZkS1owc3laMFBRMDVpNDB0ekxGVVNucVFtdnQzNEo2QmlwcG1FeXc?oc=5",
+          "source": "www.inc.com",
           "summary": "",
-          "published": "2026-11-24T15:26:45+00:00"
+          "published": "2026-11-25T13:25:01+00:00"
         },
         {
-          "title": "Wes Moore and the State Line in AI Governance",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UbU1mYjJrVVJzWXJwbnZwWFFSQ25rcEhSbnVfU0s3TDA2cUEyMXUweXRVOWE3ODQ3NnlIVVRTR3lxdmhxQVhQTVZlcllQbGhfX3JoZ2NwTFY2dVRzaXJXU1JzS0lMaUdpR2czcUdaamVPbVE2NHo0VzFNbV8?oc=5",
-          "source": "GitHub",
+          "title": "Connecticut Police Are Using AI With Few Statewide Rules",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzBHOHEzWU0wQWhkSlN4bTdlOWhtOEJQZnhBNXMwbHlFNFZ5QW92WTNkLVBacnN3YVZqbmkzeTllb2gwSUdLMjlkbWlOdlVsMmlFLW5vQjhlUThCekpkeGxMaEJSMUQ0bC1qZnJLR2ZMY0V0aFZCMFA3RDg2UHF3b1RFQzFKX3Z4ekdFaWExQnM5VHZfcng2WUx0Vl9oTHlYVGVLV3hoVmowZw?oc=5",
+          "source": "Governing",
           "summary": "",
-          "published": "2026-11-24T15:18:55+00:00"
+          "published": "2026-11-25T13:19:14+00:00"
         },
         {
-          "title": "Privacy Paths podcast - Playing by Different Rules: UK vs EU AI Regulation, and Data in Sport",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORG9pYUVkQmt6cUVBOXRsZHhYN25fRUdpd3ZJUVp0VzVfVEhqN0pTUXBoZ0dhU1FkOEpKUmFTd3pkd2RXYURzUVp0bzFfNEZwQkwxbG5KTldSWjQ5RWx4TDJfb2VoV1VDSG05NHlJZGsxMnh5Z3FDbzF4dGNkN2ZDRnctOU4wX0hTNWx3Z1pacmFyRU8zY0dlWkVOdDBreWVJelNndjRrZDl4SE42V0JveHVpcGxyOFRiblRxWTZtdnI1YTRzZHNxS2E4bGoyZw?oc=5",
-          "source": "Lewis Silkin",
+          "title": "Strengthened regulation of generative AI necessary",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR1JydUN6MG5zQkx2aGdDejA4Q0JYQVZYbExaazFiU0sxTDBtUy1PVE1jREs2d3I4QmVfUGx5S3ZXQUFwY0RYbTM5R251RDBhVkw2YVVtQVpQRnh1Yk5vWEFYblkxakw5NjJpOGdWNlU3Z3hsSUNLYjNsM1VXRlU1RTlR?oc=5",
+          "source": "China Daily Global Edition",
           "summary": "",
-          "published": "2026-11-24T15:15:17+00:00"
+          "published": "2026-11-25T12:56:38+00:00"
         },
         {
-          "title": "Crypto regulatory affairs: Hong Kong supervisor highlights agentic AI for on-chain risk management",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbG9IUnNRS1JLZTZMc1NKMENyME1vd2djYmxrbFYwRktnRW00UDlfb2ZRYU0tTXlYVjRqRnp6M2l3VGgxd3FlVUlCZUQyTFRvaTBDZjlxZFI4UUZnY0pWR3E4YmdsbndVMTc3WXYxUkpUdThJZFowa1JsREZ2cmZ6cQ?oc=5",
-          "source": "Elliptic",
+          "title": "Is Pharma Ready for AI in Regulation?",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSbWFpeWVJUFJyRmNVUkEtNVBSVVFPT1h2OEduQnpOSDdWMkxEaUlwWEpuck1zcm1JZjlXQ0RnVDBkMXdNOGdEakNBamJTSm5TU21DM0thZXpxVFpNQUY0WjdsV09kV2JoU2Fxb3pBbzNLWmtPcDhKOQ?oc=5",
+          "source": "PharmTech.com",
           "summary": "",
-          "published": "2026-11-24T15:00:00+00:00"
+          "published": "2026-11-25T12:54:00+00:00"
         },
         {
-          "title": "Expert Take: Give AI a learner's licence before we hand it the highway",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVRiYWQ4Yy1LZWJrUk1GS1NMM1BFajNjNHVHa3pPeFVqYWNwVUQ1LWx0Tmk5Y3dLV1lzVUxzX0xIN2VnenZFbUJSZU15NU0tWi1RM0I0RzVJZ3FSUFZ2dGFmdXREaEFNNmlxSTE2d3R3Q1FuMHR2a09TRDdOS2tDby0xT3A5STVkbXB3b3Z4a3B5OEVyV3pRX2xjbjJWYkRpQmtXX2dpQmR2ZjQ2NWVJQ21jWFl2VmUxNHZVOWtHM3pscE8ybXlfZzlHMUxsdlRD?oc=5",
-          "source": "ETLegalWorld",
+          "title": "Music industry stakeholders discuss AI regulation, copyright protection at Joburg conference",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMllqNUMzSy10Zy1VZ0lQRklqcDFmdDFvTHdIeE8zV1FKNzB3aE5VdmM1Q1ZxOHR6NmprdmJiMVI1MkJDZUxkOFJ1cFZxckY3N2g5aC1Ed1h5MEdmLV9zS3psUTh2eUNBSjY4TlZFWko4cEZTUFBtUkh6ZWZBQ2cwb2doMmU1bHFscGN0LXJOMXpuQmJMUDI3TjdZc0txdEtUX2ZSTGF4T0ExT1ViWUJPY2N3NnMwaVlBcVNUcHAwellwV3EzWUE?oc=5",
+          "source": "Music In Africa",
           "summary": "",
-          "published": "2026-11-24T14:54:10+00:00"
+          "published": "2026-11-25T12:26:49+00:00"
         },
         {
-          "title": "FCA Warns Companies Against Unregulated Agentic Activity",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZUpyZFlYZEE2RU1jODhPejIzY1p6QVJmWUZFNGlDRzViUjhGQ0xwOVVMRl92cEhrdzJTOFBDTXBha2Y2WGNDSXBLNWNYb3dJdFRGc1JDMW4zVWtfVXFXZkhfU0tESUtIMG9TdFN1alNpRUtDdzl1c2V0RkVYNFcweDdJY1lRVVNMempNSVZvaElDU0xabTdwczBQMkJweER1dFBKcGpYdG9QcG5IVmFFY2s2M04?oc=5",
-          "source": "PYMNTS.com",
+          "title": "AI governance becomes a must-have for compliance in 2027",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHlSYkhzR0c4S0daSXFDQ24xdmZZUWlHZGRrRzAyWnY2WHdaRURpcWZueGpZRkNGVTh6LXU0aE9NRWw4aTIxQ0ZRYmo4OEhYYlQzSkNsMHgwekV2SFNhODJpb04zTks4QnUtVU8wVUw3OE1TQkJXTmdUWlowelNUUmJjTjFRRXVDbUtJRGQ0RndheGtPeFE?oc=5",
+          "source": "FinTech Global",
           "summary": "",
-          "published": "2026-11-24T14:51:48+00:00"
+          "published": "2026-11-25T12:24:01+00:00"
         },
         {
-          "title": "CT Challenges Character.AI Plan To Auction User Info",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVp6T1JmV3dWWFRWcHQzdnhfVXVGOGt6MnZGS0tWSGMtemxLVlhZai0xaGgyQVNSR096UFNJbVZFcnp6b2JTMXBzVFVHY19Mc3hpdERocjFRdWdhN01qM1pVYzhQVy1XTURJaUhxSmw3RkdnOVZaQ3ZyWjhTTXAteExBT1ZQYlBna3NfbkNvSzZrZWs?oc=5",
-          "source": "CT News Junkie",
+          "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5",
+          "source": "ABC News - Breaking News, Latest News and Videos",
           "summary": "",
-          "published": "2026-11-24T14:37:14+00:00"
+          "published": "2026-11-25T12:15:59+00:00"
         },
         {
-          "title": "N.Y. lawmakers wanted AI platforms to display this warning. Hochul vetoed it, report says",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTEwbmZtNWNodU5iRlNKdWdONnFQY2M1OW8wV3BpRFUyX0t5eTVGbWJZbGM5TjFSQUpIMzNjbER5Q3hiMktWQ1BlNHhZYm8tVGQ5LUJsNk1LUzl5WWplemVqZWY4dUtqZlR3YnpNRVpkQTQ4SGV1ajNrRm5qSU1nUHYwODcyblVQczk1SFcyUDBiR3h4Vl9VcjNRVnd6RTRYdzFCWlA4aVlXRzR5RE5lUFJjRzl3VzdOOXNFS0tHZ01ZYzExS0xjbHBR?oc=5",
-          "source": "SILive.com",
+          "title": "Three regulators, one launch day: can existing UK law keep up with consumer AI agents?",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1JkeDVtZnYyX3VxOUhmc3hlYjJkMmRjSk9tcFFBV0NuRGpIZ0htVmhueVdnaDBhUEVyeHg3ak9TZWJxNFFpRXpjSWdGeTVDOUN5VnRvTm56QWE3cWVtVlB2UklveE1nWHhYemc5SDhYdTAzd3VpMlBBMUg4WnJuNF9EbUxaTE9LcjFUZ09vNHBrVTBhdDluVDFR?oc=5",
+          "source": "Resultsense",
           "summary": "",
-          "published": "2026-11-24T14:16:00+00:00"
+          "published": "2026-11-25T11:38:41+00:00"
         },
         {
-          "title": "Leaders may not delegate to the algorithm",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXFKaHNmOEo3MEprTk52LVhNbHUxR0xmR0dEZVN2UFV2U3BDdi1wRFhiSm1ZUkltZUVJby1Da0l0UUFVY0dqRTVpLUU1cTQ2MUozWEVhcy04RGhsMC1TOFFqbjhYNzJSQy1BamsteUxtSnY1UTBabmJrTWRPR1JIS1RuUW5yRDlEMHA4ak9TcTJTTzdwaUJNSkJ0eXV4Vm03djdqeg?oc=5",
-          "source": "The Law Society of Ireland",
+          "title": "Regulatory Pressure on Utilities: How Remote Sensing and AI Are Changing Compliance Strategies",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVG9wRVgzUk1HYUl0VlZOX29ZYi1OdVdPMlBSeEdjQmx0WlJiOXZYdUkwUHZ0SmJuWVhrN294WGpvQ1JRR2ZxeEs3YnotclVUS0p1V1BoZ0hzQjVfOUNoal85aFhidWhmSEE1dUQwT18xeVdDdFJaZ0dPNFdfbm90WW9iSXVQS3pkMTllVlRpQW5kOVZtUHowX1htWkM4TzdieEdEQ1owMF9CczRoYmg2VXBMTjNMRnBvNUN3THhxOHROaEZtT2Zia2FjdjBneFBSRFRMUjlyWQ?oc=5",
+          "source": "Occupational Health & Safety",
           "summary": "",
-          "published": "2026-11-24T14:04:13+00:00"
+          "published": "2026-11-25T11:21:07+00:00"
         },
         {
-          "title": "Zero to One Invention for AI, Superintelligence: Vatsal Soin's Filed Patents Give Regulators Trusted Data, Privacy, Human Say",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoVGJndUhIUWRmYkhYWXJXVXg0c2tpVGd6MHJqMWplVFg3cWw3dDV2ckQ0VkhKbDNfbmtxNFJHTUt3SEd0NkV6UGRfSkx0RC16c3V3SjI4YjI3Q3VwOXI2bC0tOE9tTm5CNkNKZHliaDk5SDg?oc=5",
-          "source": "Ukhrul Times",
+          "title": "Maryland pushes tighter AI oversight as Moore attacks Washington inaction",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSi1HZ1FVd09EallPZHcyME9Tb0dNYWhMZkxCOU5PREZybVN2Tl9mVkhsXzRKVGtHeVJPblA0d3FjcFJFV0lsTU9mQnJMaHh4VVlqY1ExZHJ2MjdodF93YWstT2ZWT2c2emo2SFdNek9KNUFJcE5IS2kyeWRubUZ1RDI3UVMxd3lra1czVDYtakhsdzA?oc=5",
+          "source": "Traders Union",
           "summary": "",
-          "published": "2026-11-24T13:59:32+00:00"
+          "published": "2026-11-25T10:41:43+00:00"
         },
         {
-          "title": "Before healthcare fully embraces generative AI, we need better evidence and regulation",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYy1vRXNOb3VNUTdHdTJDMDQ5SjhJb0VVQjg4S2FyemtZM0h3bWJ4MVJ1RGhOVHItQXVEVWQ5djNMdDMwM1hGbjBCY3QzaDduMUhxX0VNS3Y2RTlCMzRtN21qaXhnYnBXNENhZW9vcklDSlZaYVVJMk5BNy1FQy1JZk1pZi1LT2FrQ05lN21BWFR0RWtlU0V4amxSU2s?oc=5",
-          "source": "The London School of Economics and Political Science",
+          "title": "Wes Moore wants Congress to treat AI oversight as an emergency",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByN1k0WldZbkw5cnFFTUVfd2RqelBWcWVRNllKcXRydGNPOGcyb1RqR0k5MTBzWUdVVmhxeU1HVndYZ19uUG9RcHlTWGF3ZmVhblpZYnpxbXNoREF1bXFZUVNlX1RmdXhFaVZpTDZudWZSaERVVVJDMg?oc=5",
+          "source": "Crypto Briefing",
           "summary": "",
-          "published": "2026-11-24T13:50:51+00:00"
+          "published": "2026-11-25T10:40:58+00:00"
         },
         {
-          "title": "Treat AI Agents Like Human Users: UK Regulators Propose ‘Zero Trust’ Rules for Bots",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVlHTHNXcUxxWkhTN2t3NXVtUGtFZTNuSkR6dzFmdEhmVUx0SW54MzdXOW5kcm1BYjlFcmczTUhIVlRxUDNPZEt3OGhPT0dHV0NLQ08tOTh1S3JTbmYybGhjZ28wa2JWMmFYbmJUbXJiZnV3RkJFSGhpUWpYU0FVSC1oUlVDZUdncTAxU0w4cjdFamlua3o5YzBaVzlLdUFacEtrNGtWRDhMdEZKZEpHZ1l5MEVWMG4wQWk3S2dORHNpMmtOZ3h3ZWxB?oc=5",
-          "source": "Finance Magnates",
+          "title": "AI mental health regulatory sandbox will make digital support safer",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTMzNDB1NmsyYklUX0c2ZVplOXVrZEp5cUhBaDR5enNySDl0SVBqdHY5OGg5LWItRFMtcm1VM3pOdkpGczhwRGF0b0k1MEwwOEdOTWR3ZVFfZkY3S2tJemNSVENISmdRRTZKMW5JVWtxalRiTFhPYU9qS0VIaXFqUWd2T2RWb2pUUWkxcDEyZ1lBRlMySThXVWd0dUppLTFCOU1EN2VJSk81UXUzZTNwRl9B?oc=5",
+          "source": "Open Access Government",
           "summary": "",
-          "published": "2026-11-24T13:35:08+00:00"
+          "published": "2026-11-25T10:18:11+00:00"
         },
         {
-          "title": "EU-UK Digital Partnership: Browne Jacobson Expert Warns Against Broad-Brush AI Regulation",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGx0OGMxQXJ1YWJlMjFubzFVRTJrZ1ctTm95NWx0ZWExcDRZa1hVbXdnSmpFdlV5ZWNERGQtZHl1THlSblNMSkl1Nl9xR2FhdnNNUndFTTRkdkc3V0wyT05NcFZmRHFaSlhGMTF1b2RFNng5VVk2T3VOQlFaNGRDcnlGa2F3Y29GdjdYUHh1RlIxNmg4QUFwbkx6V3QxSFdEcDdEbE91UEdHNEkzbDR5TmtTaw?oc=5",
+          "title": "How to Talk With Your Family About A.I. Doom at Thanksgiving",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVB5UW1nMDFoeWRNR2lPS0gwRVl4NkJlNEd3UmY0MFMyWUc4VzhtZTd0VERQV0sydHJVMjdEN3BMbjdMN3BkeGQzOVNNRFJLUFZNVFYtVTJUaDhuYzk2ZWVkTlg0MlotazhpTHpiRkdpNE5oQm5POHg1ZGFKVUtnY0NnMlc?oc=5",
+          "source": "The New York Times",
+          "summary": "",
+          "published": "2026-11-25T10:04:13+00:00"
+        },
+        {
+          "title": "Marsha Blackburn Wants to Lead Governors on AI, Tech Regulation",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0J5OEZXTzF6YzZ6WVBwS3pOS21XWDJMNjBYOENBQmRWMjVnR2lfeFBQcUFvMDd4M3hBNXR4bzFXc2tPUjZrcV9VMl83cDFTYzFRZ2NiNjdIZVI3ZzhyX3BCVFI1WVhkd3FmSWZWZTZWQnd4NldoVlliN1BLOVAybXdfQUhhREFJdHMxTEt5bDhBRG5ucVZUdnpyZVpnblNvemRHdTdvTlBYWEJmTmVF?oc=5",
+          "source": "Bloomberg Government News",
+          "summary": "",
+          "published": "2026-11-25T10:00:00+00:00"
+        },
+        {
+          "title": "Alex Bores on whether Congress can regulate AI before it’s too late",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY25rOFl0OHZSVEZBU0JmN1QtVkNCZ0VBYTBuTnZGSVZLTXNFelEwV0lEcVVsYTBYNWdyY25LN3MwbXZhMFB0Ni1SV0F3ajVMdHZmMFI5ZEktNndwQ09tdm9ESWxQcGZGNkhJRVpLd0NXODZvXzVNMmlWSDhzelRhaDNrbXMwSjJoVW5jYTdhRWxhR1NKbGpzNkRIaTNUVG5Gekd3LTlCRlNKaTJPQ2ppMmNRMTNfVVU?oc=5",
+          "source": "Politico",
+          "summary": "",
+          "published": "2026-11-25T10:00:00+00:00"
+        },
+        {
+          "title": "Spotlight on AI safety, security and alignment | Where regulation is heading (via Passle)",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDdSUlA0N3A4TkN3TFlvTFVsbjFGaF80VWRJSEZoVVNHSkxLUlQwajlqMlNfUEdYOVRaeEI0NTZ5UHJGSEExRk5qTXRFVkd3Y1F2ZmpLV2hMdXR4R25BRDRlWFhuUDBxajJQWDNwYnp4OE1PNmxhQlp6Y09vSUlwUlpXSV9OdmpiVm5VVmhGdElSbTlqWDFUbHNBZnR5VjVzaG9zTHc5UEdSQ284RXB0cEtnczJPZmVfTTEwdHZjODZBdw?oc=5",
+          "source": "Bristows",
+          "summary": "",
+          "published": "2026-11-25T09:59:06+00:00"
+        },
+        {
+          "title": "AI consultation paper in final stages, says MeitY Secy; release expected soon",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU82bEpqU1QzeF9TYnQ0LVRhQlhEYlVjd0VYUFBrSkFLVWtpYXFQNDV0WnpxVk1zc1hJeG5PME93VmY2dTNRdDdtR1RKYmUweU90bHgtWnJ4TFdXQWk2bmU5NnFQb3Z5RDdsWkJ3VVhUWWFpekFNZDE1Z2ltTXA3ay1zeTNsTGVOakcxTjhVUlh6WVA1LUxsVGx1OGRmbHVxbDhZOHNxWlprbkRIVmVva2kwMNIBuAFBVV95cUxQRHRyVENzWTNNa2FabVJWcTRYSjVHNjVQVTFpOEVYRnFJSmxMSDcwTEdfRi14bjJnWXhLWTNnS09iQVVreElBNzAtSDVCQnV0RFNVbFlkNDBBbWxVS2lrUjdLRG1Vc3hXZ3o4ZFpOUWRodm5ucU1kelpTZ1F3aE01VG81S3NkX0dPMjl0UThpMUczT1U4S0hzajBHYlZmQmNlMHpRVDluV09VYjIzbmxNZE5FcVZRMFFn?oc=5",
+          "source": "Storyboard18",
+          "summary": "",
+          "published": "2026-11-25T09:57:54+00:00"
+        },
+        {
+          "title": "South Korea AI Basic Act Fine Pause May Outlast January 2027 as Study Group Meets Wednesday",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjVycEgxd1h0QzhTbDVFc05aRjZvcS10RWVYNW1GazZfX1ktNEJGb1JPRG15VjNOVGxGWFNPYllXRlpKTEJwOFpBZjRTc1A4WEh3U0JIakUxS3ZUMm14SFlOUzlQX1FZcHBHVnJaUFRVZEpsYkVheDlsZzRlVDNRQldmN2dmVXZaNk9HWS1oazNxeXp5XzRhcFJoUzkxUDN0NzdKd0txcWZiTk9wWFoxT2ZPdzJ1dVotcjY0MHROODZWaEdFci1PbU92V1IyVmlNc3k3T1NpNTRyV1k?oc=5",
+          "source": "Tech Times",
+          "summary": "",
+          "published": "2026-11-25T09:35:03+00:00"
+        },
+        {
+          "title": "FCA outlines agentic AI expectations for UK firms",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2pMS29YdnBJT3Mtd1NQSVNrZWhqYTdSR25VQzRjaEFCU01UZnZ0M0R3dy1Hc2hvUjEtZEJuWkkyUWZKdFk1WVFXZVlPMlZtQW14Ykx4TFNDcUJsV2lHenpkVHU5enh4NTVlZ180N2swUkMxbXd5bHN5UlUxYjk5U0xOLUE2clFUSHRhZEZMMlZrNm9IZ3Y3X1JZZ2V1VUd2QUQ3UA?oc=5",
+          "source": "The Paypers",
+          "summary": "",
+          "published": "2026-11-25T09:08:49+00:00"
+        },
+        {
+          "title": "Regnology Unveils RGI Orchestrate: The Future of Agentic AI in Regulatory Reporting",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbU9uZ29ScmtZQXVzR1JRUUR2a25MRkhmMUpON2lHXzdIQWEwZDRkVUxNVW91MGhqMDNaNjVoa2JERjNpNERtdGw4dTQyVEdIUmJFNThvWF95OER2VVlDV2hKYXlXQ0FEUUZkZ0hfSGNHT3FETEZ3d19aMGdGVzdzZFVGeDNXc3lIWURUd3o0RHRBX19zSm1YZ0Vyc0RpQXh4SDVKNHIxSHMtSGVpYy03RXRuSQ?oc=5",
           "source": "FF News",
           "summary": "",
-          "published": "2026-11-24T13:30:54+00:00"
+          "published": "2026-11-25T08:11:09+00:00"
         },
         {
-          "title": "UK Financial Watchdog Warns Tech Firms That Autonomous AI Agents Can Trigger Financial Regulation",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2o4TVBLMUhMWkYwbXowTHBsUXBNai0tRXluYXF5eDd6Rjhsc0RpSVdYV1MyTHVGYUtIbHRwSkRjeHYtdzZqT1VaUUNlRENEdHZ0RG5Lc1g5UldKRUgyQ3NVT1R3M0QyOHZBVkRTTy02Rml5RzBEaUg4N0RwN2tDY1ZtR2tjd09HazdLcmlJZVpURGVhekpISmFEdzhadw?oc=5",
-          "source": "CASRAI",
+          "title": "AI Procurement Austria 2026: Tender and Contract Guide",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOXBMS1NjUzE1NGJzSm1SNWFfbTRxQmdoeVdUbWMwOVg5bEZZaHVGQlU0cjVONWh3Vmc4UnQxb0ZDZXpVOUpqcEtnSkJxVVpfOFRpV3NWZVZyb0JERE5CTm9ON3FMbGtIa1Zidm02YkhpTm9wNnB4RXlSZzkyd0wwT2VVX18wek1BSjJuSGhKRQ?oc=5",
+          "source": "Global Advisory Experts",
           "summary": "",
-          "published": "2026-11-24T13:22:48+00:00"
+          "published": "2026-11-25T07:54:42+00:00"
         },
         {
-          "title": "Stafford Building Society Deploys AI-Powered MV Shield to Combat Rising Financial Crime",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRC1ZblNrd3lkbUM1X2VwWkozX05WQnBFYk5DMjBnUHFzSXEyYWoxQXhTQThwM3BSWVIzRHJsUWNWV1hxSEhqTUJ2M0FuaDhjTWFIUFJjT1BXRmlXR0prNXlDZXRxd1RmdWdSUE9XZ1VaUDBNdE5fc2oyRERBa0F4YkJuYXQ2N19tRDJzTnh3OXVDOXc2N1NKSE1WWFNHVV8z?oc=5",
-          "source": "FF News",
+          "title": "MHRA and NICE launch AI mental health regulatory sandbox",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEN1c003RGxkbjlwQTZVaVRYZjFYSDc2Y05yQlRJblpkRGI2S0JiMU12MURtblgtYk5CR2lJYkloUk9Gb3hQTDI4akR6SlRxcTVUZElxWWs1R293d3JmNC1LbTNfbkJYUVJiTzRlVXlGbkdZcklUdGNfeGVIRzgzV25LVktESXNLTzZHc25kZmRCWDdJTzlpWDdBcw?oc=5",
+          "source": "Home | Digital Health",
           "summary": "",
-          "published": "2026-11-24T13:20:54+00:00"
+          "published": "2026-11-25T07:31:24+00:00"
         },
         {
-          "title": "8 out of 10 UK children are using AI chatbots",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRlpyNFpxSHF5bXFmMHd6SzN6TmNkdVUyYUlkMTZCU0dfUXY1UXEzQ2J5cnNhaW12YTVLRGxGWThIZFVLWjdVaDNzSjh4Nm9VR0xWdTk0Y0pCWVZHTFJTMkZnZ0RtbEVmMkh6RG5aN19TVndNOUJYUThjOEhWMG9ZWkdyX1Y?oc=5",
-          "source": "Christian Action Research and Education",
+          "title": "Trump Says He Considered U.S. Government Stake in NVIDIA",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTm5PanJ2U1RibnhFMVBHTk1nZ2xJTy1kQWt0aVF3S3ZqaEpSdkJqMWtDUDR4X0lnRXpFVVhaeGpLVWxRQWpwYzVfd00xMGdDTUk3UWRzS3BXZU54RUtBcjNrb1NTNDRHc1RvRDlkb2d4RkRfUldjNjNMRW8wVU16VXhmZw?oc=5",
+          "source": "Unite.AI",
           "summary": "",
-          "published": "2026-11-24T13:18:59+00:00"
+          "published": "2026-11-25T06:57:04+00:00"
         },
         {
-          "title": "1,614 AI Devices Cleared. Three Tested for Patient Outcomes. This Is a Validation Crisis.",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR08weXhKc09PLU5lcmw0cDJNdzEtazZvcks4TW5yM2dkbTBPSG5LZVljRUM3bXZ6cVh0YjRwaTJEd250d0J5Z3g5M0dVb1docHZTTVlIdzZmU3RKa1dlYWVOOW1LQUhrMk0xYnZPU1NhYTNuSEhxTXpsUG1qdzBOM0ExWDI1aXFjOW9pZERsWW03dUR1WnhRd0RoS3VMSXhVUG5UY1lnYVNkcUIwWl93bHNTemFEb3Y2RVRoaUFWaG53dWZBNzFLeWViclVNaWlhVHdycS1UOHdZLTl4?oc=5",
-          "source": "The Clinical Trial Vanguard",
+          "title": "As US pushes to 'win' AI race, politicians and groups call for regulation",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0k4VEZNeGFwYTB0LXdJcWZaSENCOG1za2h6RTk3VHBNMXJuNU80YS10XzZTejZzRU5mM1NyckdNbHg4UEY1MlNjdnVhTjdFTnVoVGRUSDNJQ2hqbzFFOTMzREY1Rk9ZUVM1TFRtMHhNY1FIYnh0aHZfU1JZdFFMcThlcnN2b2pEaWJjaFZJdkEwM0NQdHhpeW1ORTcxeHlqY2NKT2RtRTB6U2M?oc=5",
+          "source": "KSL",
           "summary": "",
-          "published": "2026-11-24T13:06:24+00:00"
-        },
-        {
-          "title": "U.S. Elections Signal New Phase of AI Development",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkJPaFo5TU5xUUIyWkU3LU5YcUxFTE93eGluNnVISWlibnViY3pVZ2RmMGlLbmY2RXV3TDVrSHR5TlVHb2xGeVBjM1RwUzhzRnhCTXliUnN4OWVONkdiTklEZlFhWDB3bTVTcWh0dkxVUUpPbTBKaWh1TkFiZGJDc3VPWmJTZDVfMkxYeGpseHNYX19ZUmI0?oc=5",
-          "source": "China-US Focus",
-          "summary": "",
-          "published": "2026-11-24T12:59:47+00:00"
+          "published": "2026-11-25T05:53:27+00:00"
         }
       ]
     }
